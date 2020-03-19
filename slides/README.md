@@ -1,7 +1,7 @@
 Slides
 ------
 
-- [Projeto de programas paralelos]https://docs.google.com/presentation/d/1OIy6zdEhYFMsV0x13sSVC3pPesu9oOk-ZWmvz0x_8Vo?usp=sharing) 
+- [Projeto de programas paralelos](https://docs.google.com/presentation/d/1OIy6zdEhYFMsV0x13sSVC3pPesu9oOk-ZWmvz0x_8Vo?usp=sharing) 
 - [Programação paralela com OpenMP](https://docs.google.com/presentation/d/1h4i7Gpbq_0KNiM_rfPe-yoti7IKwZh-HvRXQn7u_7EU/export/pdf)
 - [Programação paralela com MPI](https://docs.google.com/presentation/d/15kB6KIaigtZgbMcqoKyoSZLwy7lvqBafOihAFWMzNbs/export/pdf)
 - [Operações coletivas em MPI](https://docs.google.com/presentation/d/1Sz-vNc6s6Y789ALILU0G76p1q-VbAuA9OQjt-K42bPw/edit?usp=sharing)
