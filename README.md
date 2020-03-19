@@ -1,4 +1,4 @@
-# Programação Paralela - ELC139-2019a
+# Programação Paralela - ELC139-2020a
 Primeiro semestre de 2020  
 Professora: [Andrea Schwertner Charão](http://www.inf.ufsm.br/~andrea)  
 Carga horária: 60h  
