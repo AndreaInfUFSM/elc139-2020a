@@ -9,8 +9,9 @@ Sala: 363, CT
 ## Trabalhos
  1. [TOP500 & me: comparativo de arquiteturas paralelas](https://classroom.github.com/a/N4UByadq) (entrega até segunda, 16/03, 23h)
  2. [Programação paralela multithread](https://classroom.github.com/a/opn3CEoT) (entrega até quarta, 25/03, 23h)
+ 3. [Scheduling com OpenMP](https://classroom.github.com/a/rmRfDS3-) (entrega até quarta, 08/04, 23h)
 <!--
- 3. [Scheduling com OpenMP](trabalhos/t3) (entrega até segunda, 08/04, 23h59)
+
  4. [Geração de Fractais de Mandelbrot em OpenMP](trabalhos/t4) (entrega até segunda, 22/04, 23h59)
  5. [Primeiros passos com MPI](trabalhos/t5) (entrega até segunda, 06/05, 23h59)
  6. [Comunicação coletiva em MPI](trabalhos/t6) (entrega até quarta, 15/05, 23h59)
