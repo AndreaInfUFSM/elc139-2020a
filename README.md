@@ -10,7 +10,7 @@ Sala: 363, CT
  1. [TOP500 & me: comparativo de arquiteturas paralelas](https://classroom.github.com/a/N4UByadq) (entrega até segunda, 16/03, 23h)
  2. [Programação paralela multithread](https://classroom.github.com/a/opn3CEoT) (entrega até quarta, 25/03, 23h)
  3. [Scheduling com OpenMP](https://classroom.github.com/a/rmRfDS3-) (entrega até quarta, 08/04, 23h)
- 4. [Simulador de Propagação de Vírus com OpenMP](https://classroom.github.com/g/wNI89dHO) (entrega até quarta, 22/04, 23h)
+ 4. [Simulador de Propagação de Vírus com OpenMP](https://classroom.github.com/g/wNI89dHO) (entrega até ~~quarta, 22/04~~ segunda, 27/04, 23h)
     Obs.: Este trabalho pode ser feito em duplas. Combinem as duplas antes de clicar no link. No GitHub Classroom, um dos integrantes vai criar a dupla/grupo e o outro aluno vai se juntar ao grupo. Trabalhos individuais também são permitidos, mas é preciso criar um "grupo" também.
  
 <!--
