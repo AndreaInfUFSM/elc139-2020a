@@ -14,6 +14,7 @@ Sala: 363, CT
     Obs.: Este trabalho pode ser feito em duplas. Combinem as duplas antes de clicar no link. No GitHub Classroom, um dos integrantes vai criar a dupla/grupo e o outro aluno vai se juntar ao grupo. Trabalhos individuais também são permitidos, mas é preciso criar um "grupo" também.
  5. [Execução com OpenMP no cluster da GSU](https://classroom.github.com/a/_1-rIXge) (entrega até ~~segunda, 11/05~~ quarta, 13/05, 23h)
  6. [Primeiros passos com MPI](https://classroom.github.com/a/am-Je6Di) (entrega até segunda, 18/05, 23h)
+ 7. [Geração de Fractais de Mandelbrot com MPI](https://classroom.github.com/g/xVq68YYc) (entrega até quarta, 03/06, 23h)
 <!--
 
  4. [Geração de Fractais de Mandelbrot em OpenMP](trabalhos/t4) (entrega até segunda, 22/04, 23h59)
