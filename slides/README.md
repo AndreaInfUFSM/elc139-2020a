@@ -5,6 +5,7 @@ Slides
 - [Programação paralela com OpenMP](https://docs.google.com/presentation/d/1-k-IyxrZd-PWIpvRCPfi0ggzJ3Oxa7Ju-cfiNL_XpzQ/edit?usp=sharing) | [aula gravada](https://drive.google.com/file/d/1qHgNmZUE7iCFDOgfq0N6isDSdIz0x-r4/view?usp=sharing)
 - [Programação paralela com MPI](https://docs.google.com/presentation/d/1ItSn3EyWDocwVI7_gdz0RwDKPy274nsSRobtcrdV2V0/edit?usp=sharing)
 - [Operações coletivas em MPI](https://docs.google.com/presentation/d/1__AR-P84JTBk5KyEKS6V_2NSXl7rUm5GUkkFiMieSjc/edit?usp=sharing)
+- [Avaliação do T7 (MPI)](https://docs.google.com/presentation/d/1U1JDPreKkxbXd12HKEg6l1M5luIydsWRu6-fwwPzYR0/edit?usp=sharing)
 - [Programação paralela em CUDA](https://docs.google.com/presentation/d/1g3IprM86HZREH53DZR5DJJ0s5gXSDb7gQQOVzbyywS8/edit?usp=sharing)
 
 
