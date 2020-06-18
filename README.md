@@ -15,6 +15,7 @@ Sala: 363, CT
  5. [Execução com OpenMP no cluster da GSU](https://classroom.github.com/a/_1-rIXge) (entrega até ~~segunda, 11/05~~ quarta, 13/05, 23h)
  6. [Primeiros passos com MPI](https://classroom.github.com/a/am-Je6Di) (entrega até segunda, 18/05, 23h)
  7. [Geração de Fractais de Mandelbrot com MPI](https://classroom.github.com/g/xVq68YYc) (entrega até quarta, 03/06, 23h)
+ 8. [Geração de Imagem em Paralelo com CUDA](https://classroom.github.com/a/ygHMsrx1) (entrega até quarta, 01/07, 23h)
 <!--
 
  4. [Geração de Fractais de Mandelbrot em OpenMP](trabalhos/t4) (entrega até segunda, 22/04, 23h59)
